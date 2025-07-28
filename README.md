@@ -45,7 +45,7 @@ Faz o sorteio aleatoriamente e exibe o resultado
 
 # Como Rodar o Projeto 🖥️
 Clone este repositório:
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/ju-caju/amigo-secreto.git
 Acesse a pasta do projeto:
 cd amigo-secreto
 Abra o arquivo index.html em qualquer navegador.
